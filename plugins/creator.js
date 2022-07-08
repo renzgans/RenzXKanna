@@ -33,8 +33,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor Rozi", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata Rozi", rowId: ".owner bio"},
+	    {title: "📱 • Nomor Andre", rowId: ".owner nomor"},
+	{title: "🎨 • Biodata Andre", rowId: ".owner bio"},
 	{title: "🌎 • Script yang bot gunakan", rowId: ".sc"},
 	]
     },{
