@@ -11,21 +11,18 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner Zifabotz tidak menerima save contact
-• Owner Zifabotz berhak blockir tanpa alasan
+• Owner Zerobotz tidak menerima save contact
+• Owner Zerobotz berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Zifabotz Hanya merespon yang berkaitan dengan BOT
-• No Telp owner Zifabotz`
+• Owner Zerobotz Hanya merespon yang berkaitan dengan BOT
+• No Telp owner Zerobotz`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/e8f6c7288a8d34157d54e.jpg'
+let ppown = 'https://telegra.ph/file/809303188836578533749.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* : Rozi
-❑ *Umur* : 15 Tahun
-❑ *Kelas* : 1 Sma
-
-❑ *Ulang Tahun* : 4 juli 2007
-❑ *Alamat* : Indonesia, Kalimantan barat, Pontianak
+❑ *Nama* : Andre
+❑ *Umur* : 17 Tahun
+❑ *Kelas* : 3 Smk
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
