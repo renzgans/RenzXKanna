@@ -16,10 +16,13 @@ let info = `
 Hai kak mau sewa bot, untuk grup kamu?
 Nah bisa banged ni kak kami juga menyediakan sewa bot yg murah….
 
-Sewa bot:
-💌 perbulan 5ribu
-💌 permenen 10ribu 2grub
+–––––– *Sewa Bot* ––––––
+💌 perbulan 5 ribu
+💌 permenen 10 ribu 2grub
 💌 permanen 3 grub atau lebih 20ribu
+–––––– *Jasa Run* ––––––
+💌 perbulan 10 ribu bisa akses sendiri + bisa jual jasa sewa
+💌 cukup scan qr aja sudah bisa bikin bot tanpa ribet
 
 TERIMAKASIH…
 
@@ -27,7 +30,7 @@ TERIMAKASIH…
 • *Dana:* [${pdana}]
 • *OVO:* [${povo}]
 • *Gopay:* [${pgopay}]
-• *Qopay:* [${pqris}]
+• *Qris:* [${pqris}]
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
