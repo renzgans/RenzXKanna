@@ -51,6 +51,7 @@ global.snh = 'https://youtube.com/channel/UCJ-AJ4DAfOL75-jpJi3m2ow'
 global.pdana = '083178502766'
 global.povo = '-CLOSE-'
 global.pgopay = '085161732766'
+global.pqris = 'Redy'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '1(873)7302363'
