@@ -342,8 +342,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
                 },
                 {
                     urlButton: {
-                        displayText: 'TELEGRAM',
-                        url: sdc
+                        displayText: 'SEWA BOT',
+                        url: sewa
                     }
                 },
                 {
