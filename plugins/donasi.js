@@ -5,6 +5,7 @@ let text = `
 │┝‷✧ *Ovo:* [${global.povo}]
 │┝‷✧ *Dana:* [${global.pdana}]
 │┝‷✧ *Gopay:* [${global.pgopay}]
+│┝‷✧ *Qris:* [${global.pqris}]
 │╰───···─────
 │⁺◛˖ Ingin Donasi? Chat nomor owner
 ╰──────────···───╮
