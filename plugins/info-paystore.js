@@ -27,6 +27,7 @@ TERIMAKASIH…
 • *Dana:* [${pdana}]
 • *OVO:* [${povo}]
 • *Gopay:* [${pgopay}]
+• *Qopay:* [${pqris}]
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
