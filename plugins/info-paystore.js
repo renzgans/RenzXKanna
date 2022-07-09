@@ -32,7 +32,7 @@ TERIMAKASIH…
 • *Gopay:* [${pgopay}]
 • *Qris:* [${pqris}]
 
-–––––– *🐾 Kebijakan* ––––––
+–––––– *Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
 💬: Mau tawar menawar? boleh, silahkan chat owner aja
 
